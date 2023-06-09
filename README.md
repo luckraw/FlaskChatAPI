@@ -14,7 +14,7 @@ FlaskChatAPI é um projeto de API de chat em tempo real construído com o framew
 Clone este repositório:
 
 ```shell
-git clone https://github.com/seu-usuario/FlaskChatAPI.git
+git clone https://github.com/luckraw/FlaskChatAPI.git
 ```
 Acesse o diretório do projeto:
 ```
